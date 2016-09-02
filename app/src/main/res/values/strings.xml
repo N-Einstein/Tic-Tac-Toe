@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+
+    <string name="newgamebutton" translatable="false">New Game</string>
+    <string name="let" translatable="false">Let the games begin</string>
+    <string name="action_settings">Settings</string>
+    <string name="X"> X </string>
+    <string name="O"> O </string>
+    <string name="Blank"> </string>
+</resources>

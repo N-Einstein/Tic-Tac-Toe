@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="let" translatable="false">che i giochi iniziano!</string>
+    <string name="newgamebutton" translatable="false">Nuovo gioco</string>
+</resources>
